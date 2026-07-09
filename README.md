@@ -75,9 +75,7 @@ Personalized-Healthcare-Medicine-Recommendation-System/
 ├── Disease_Prediction.ipynb
 ├── disease_model.pkl
 ├── label_encoder.pkl
-├── requirements.txt
 ├── README.md
-└── screenshots/
 ```
 
 ---
