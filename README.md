@@ -72,7 +72,7 @@ Personalized-Healthcare-Medicine-Recommendation-System/
 │
 ├── Training.csv
 ├── Testing.csv
-├── Healthcare_Recommendation_System.ipynb
+├── Disease_Prediction.ipynb
 ├── disease_model.pkl
 ├── label_encoder.pkl
 ├── requirements.txt
